@@ -1,4 +1,4 @@
-# Symbol-recognition-using-Tensorflow-Keras-in-simple-and-RESNET50-model
+# Symbol-recognition-using-Tensorflow-and-Keras-in-simple-and-RESNET50-model
 
 
 ## TensorFlow model
